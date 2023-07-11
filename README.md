@@ -1,14 +1,14 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Espresso521/open-assets/main/img/blog/gif3.gif" width="480"/>
+<img align="right" alt="GIF" src="./home_page.gif" width="480"/>
 
-# About Me
 
-- 📍 東京(Tokyo)
+- :house: 東京(Tokyo)
 - :construction_worker: 10+ years of work.
-- 🏢 自営業
+- :office: 自営業
 - :flags: my blog address: https://www.kotaku-blog.com/
 - :email: my email address: [kotaku20220424@gmail.com](mailto:kotaku20220424@gmail.com)
-- ℹ️ 私はプログラミングは大好きですし、1人称で自走できるし、やる気が満々です。
-
+- :sparkles: :jp: 私はプログラミングは大好きですし、1人称で自走できるし、やる気が満々です
+- :sparkles: :us: I believe my passion for Android development, combined with my technical expertise, makes me an ideal candidate for the role of an Android Senior Engineer
+- :sparkles: :cn: 在日本干IT的大叔，愿上帝保佑你，阿门
 </br>
 
 # About My Github
