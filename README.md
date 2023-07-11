@@ -1,29 +1,17 @@
-### Hello World 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Wenlong-Guo/open-assets/main/img/blog/gif3.gif" width="480"/>
-</br>
-<!--
-**Espresso521/Espresso521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Espresso521/open-assets/main/img/blog/gif3.gif" width="480"/>
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 東京(Tokyo)
+- :construction_worker: 10+ years of work.
+- 🏢 自営業
+- :flags: my blog address: https://www.kotaku-blog.com/
+- :email: my email address: [kotaku20220424@gmail.com](mailto:kotaku20220424@gmail.com)
+- ℹ️ 私はプログラミングは大好きですし、1人称で自走できるし、やる気が満々です。
 
 </br>
-- 📍 &nbsp;&nbsp;東京(Tokyo)
-- 👨‍🎓 10+ years of work.
-- 🏢 https://www.kotaku-blog.com/
-- ℹ️ I believe my passion for Android development, combined with my technical expertise, makes me an ideal candidate for the role of an Android Senior Engineer.
-</br>
 
-
+# About My Github
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&layout=compact&langs_count=8&theme=cobalt)](https://github.com/hqwlkj/github-readme-stats)
 
