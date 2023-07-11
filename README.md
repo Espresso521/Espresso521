@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="./home_page.gif" width="480"/>
+<img align="right" alt="GIF" src="./home_page.gif" width="420"/>
 
 
 - :house: 東京(Tokyo)
