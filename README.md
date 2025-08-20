@@ -4,7 +4,7 @@
 - :house: 東京(Tokyo)
 - :construction_worker: 10+ years of work.
 - :office: [JW](https://www.jw.org/ja/)
-- :flags: my blog address: https://www.kotaku-blog.com/
+- :flags: my blog address: https://kotaku220424.xsrv.jp/
 - :email: my email address: [kotaku20220424@gmail.com](mailto:kotaku20220424@gmail.com)
 - :sparkles: :jp: 私はプログラミングは大好きですし、1人称で自走できるし、やる気が満々です
 - :sparkles: :us: I believe my passion for Android development, combined with my technical expertise, makes me an ideal candidate for the role of an Android Senior Engineer
