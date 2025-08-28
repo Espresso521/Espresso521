@@ -2,7 +2,7 @@
 
 
 - :house: 東京(Tokyo)
-- :construction_worker: 10+ years of work.
+- :construction_worker: 13+ years of work.
 - :office: [JW](https://www.jw.org/ja/)
 - :flags: my blog address: https://kotaku220424.xsrv.jp/
 - :email: my email address: [kotaku20220424@gmail.com](mailto:kotaku20220424@gmail.com)
